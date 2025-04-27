@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d74596528c54431aa91270c4c5658717, type: 3}
+  m_Name: Default
+  m_EditorClassIdentifier: 
+  blockColor1: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite1: {fileID: 21300000, guid: 87a9b32d0b8f2dea1beabd1c55a30766, type: 3}
+  blockColor2: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite2: {fileID: 21300000, guid: 045644cf8393f83f986562be47895c7b, type: 3}
+  blockColor3: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite3: {fileID: 21300000, guid: 84e86a77995dab4fcbfeb49fc713c212, type: 3}
+  blockColor4: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite4: {fileID: 21300000, guid: 930f0808a749a788dbdbdec2981b03c9, type: 3}
+  blockColor5: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite5: {fileID: 21300000, guid: a4cf841dfad28674a8802c9c77a249bf, type: 3}
+  blockColor6: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite6: {fileID: 21300000, guid: 93f428b46c5a89d21a21fca2d0ad9bb2, type: 3}
+  blockColor7: {r: 1, g: 1, b: 1, a: 1}
+  blockSprite7: {fileID: 21300000, guid: d92d6eacffc9391f9bcad1cdc8f9ccda, type: 3}
+  blockShadowColor: {r: 1, g: 1, b: 1, a: 1}
+  gameBackgroundColor: {r: 0.11764706, g: 0.15686275, b: 0.19607843, a: 1}
+  boardBackgroundColor: {r: 0.11764706, g: 0.15686275, b: 0.19607843, a: 1}
+  boardBorderColor: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  panelBackgroundColor: {r: 0.11764706, g: 0.15686275, b: 0.19607843, a: 1}
+  panelBorderColor: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  panelLabelTextColor: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  panelScoreTextColor: {r: 1, g: 1, b: 1, a: 1}
+  panelLevelTextColor: {r: 0.5568628, g: 0.70980394, b: 0.9607844, a: 1}
+  menuBackgroundColor: {r: 0.078431375, g: 0.21568628, b: 0.3529412, a: 1}
+  menuBorderColor: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  menuTextColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonBorderColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonBackgroundColor: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  buttonIconColor: {r: 1, g: 1, b: 1, a: 1}
+  buttonTextColor: {r: 1, g: 1, b: 1, a: 1}
+  toggleBorderColor: {r: 1, g: 1, b: 1, a: 1}
+  toggleBorderColorSelected: {r: 1, g: 1, b: 1, a: 1}
+  toggleIconColor: {r: 1, g: 1, b: 1, a: 1}
+  toggleIconColorSelected: {r: 1, g: 1, b: 1, a: 1}
+  toggleBackgroundColor: {r: 0, g: 0, b: 0, a: 0}
+  toggleBackgroundColorSelected: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  toggleTextColor: {r: 1, g: 1, b: 1, a: 1}
+  toggleTextColorSelected: {r: 1, g: 1, b: 1, a: 1}
+  screenButtonColor: {r: 0.41960785, g: 0.972549, b: 0.9490196, a: 1}
+  screenButtonBorderColor: {r: 1, g: 1, b: 1, a: 1}
